@@ -18,19 +18,18 @@ body {
 	top: 50%;
 	left: 50%;
 	margin: auto;
-	border: 1px solid black;
 }
 
 .flipbook-viewport .flipbook {
-	width: 1600px;
-	height: 800px;
-	left: -800px;
-	top: -400px;
+	width: 1200px;
+	height: 600px;
+	left: -600px;
+	top: -300px;
 }
 
 .flipbook-viewport .page {
-	width: 800px;
-	height: 800px;
+	width: 600px;
+	height: 600px;
 	background-color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -68,7 +67,7 @@ body {
 }
 
 .flipbook-viewport .double {
-	width: 1600px;
-	height: 800px;
+	width: 1200px;
+	height: 600px;
 	background-size: 100% 100%;
 }
