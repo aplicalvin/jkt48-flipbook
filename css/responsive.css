@@ -3,6 +3,8 @@
 
 	body {
 		background-color: #fecaca;
+		width: 100vw;
+		height: 100vh;
 	}
 
 	.flipbook-viewport .flipbook {
@@ -28,6 +30,8 @@
 
 	body {
 		background-color: #fecaca;
+		width: 100vw;
+		height: 100vh;
 	}
 
 	.flipbook-viewport .flipbook {
@@ -53,6 +57,8 @@
 
 	body {
 		background-color: #fecaca;
+		width: 100vw;
+		height: 100vh;
 	}
 
 	.flipbook-viewport .flipbook {
